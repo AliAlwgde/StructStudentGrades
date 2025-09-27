@@ -43,7 +43,7 @@ void gradeAvg(int number, students arr[]){
     cout<<"The average grade was "<<avg<<endl;
 }
 
-// function takes 1 parameter, which is the number of times the user wants the loop to run.
+// function takes 2 parameters, which is the number of times the user wants the loop to run and the struct array.
 void userInput(int number, students arr[]){
     // data types are declared
     int x=0;
@@ -82,3 +82,4 @@ int main(){
     students arr[n];
     userInput(n, arr);
     return 0;
+
