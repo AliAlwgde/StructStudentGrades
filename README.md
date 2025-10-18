@@ -1,9 +1,6 @@
 # StructStudentGrades
 A simple c++ program that uses structs, loops, and conditions to collect data from the user about students and store/print them out again.
 
-# GradeCalculator
-A simple C++ program that asks for an X number of student grades, then calculates the average, greatest grade, and lowest grade,
-
 # About the Project
 This is a beginner friendly C++ project to assist in learning the basics of programming. It utilizes:
 - structs
